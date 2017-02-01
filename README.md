@@ -18,7 +18,7 @@ The primary script for initiating scans is `scant.py`. It can be configured
 with various settings. I suggest you modify the script so it speaks to your
 scanner by default. Then, run the script and enter your filenames:
 
-```sh
+```
 $ ./scant.py
 scant usage: [option,...>]filename[.format]
 > First file
